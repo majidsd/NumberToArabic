@@ -1,0 +1,11 @@
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\bin\Debug\Arabic Numbers.exe.config
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\bin\Debug\Arabic Numbers.exe
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\bin\Debug\Arabic Numbers.pdb
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\bin\Debug\NumberToWords.dll
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\bin\Debug\NumberToWords.pdb
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic Numbers.csprojResolveAssemblyReference.cache
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic_Numbers.Home.resources
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic_Numbers.Properties.Resources.resources
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic Numbers.csproj.GenerateResource.Cache
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic Numbers.exe
+c:\users\majid\documents\visual studio 2015\Projects\Utill Application\Arabic Numbers\obj\Debug\Arabic Numbers.pdb
